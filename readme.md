@@ -1,4 +1,7 @@
-On déclare les variables booléennes empty et true,
-en leur attribuant une des 2 valeurs possibles: true ou false.
+on déclare une variable booléenne nommée flag
 
-L'interpréteur saura automatiquement qu'il s'agit de variables booléennes.
+si flag vaut true on affiche dans la console "allumé",
+    la ligne 7 est ignorée.
+
+sinon (donc si flag vaut false) on affiche "éteint".
+    la ligne 6 est ignorée.
