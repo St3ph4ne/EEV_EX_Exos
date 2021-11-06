@@ -1,3 +1,4 @@
-let empty = true;
-let fully = true;
+let counter = 0;
+let product = "";
 
+console.log(product);
