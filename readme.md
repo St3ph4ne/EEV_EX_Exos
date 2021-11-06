@@ -1,4 +1,6 @@
-On déclare les variables booléennes empty et true,
-en leur attribuant une des 2 valeurs possibles: true ou false.
+Quand on exécute le code :
 
-L'interpréteur saura automatiquement qu'il s'agit de variables booléennes.
+la console affiche le résultat renvoyé par la fonction nommée fibonacci
+à laquelle on a donné l'argument 100.
+
+C'est-à-dire ... j'ai tout noté en commentaires dans main.js
