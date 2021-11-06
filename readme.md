@@ -1,4 +1,13 @@
-On déclare les variables booléennes empty et true,
-en leur attribuant une des 2 valeurs possibles: true ou false.
+Quand on exécute le code :
 
-L'interpréteur saura automatiquement qu'il s'agit de variables booléennes.
+La variable counter est initialisée avec la valeur 243.
+
+i va être décrémenté de 1 jusqu'à 0
+
+pour chaque valeur de i :
+
+le code va vérifier si i est multiple de 10, l'afficher ainsi que le résultat demandé.
+
+puis le code va vérifier si i est pair, l'afficher ainsi que le résultat demandé.
+
+puis le code va vérifier si i est multiple de 5 et de 3, et afficher "vrai".
