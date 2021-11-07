@@ -1,4 +1,20 @@
-On déclare les variables booléennes empty et true,
-en leur attribuant une des 2 valeurs possibles: true ou false.
+Quand on exécute le code :
 
-L'interpréteur saura automatiquement qu'il s'agit de variables booléennes.
+les 5 tableaux sont initialisés (vide).
+
+la fonction fibonacci (de l'exo précédent) est définie.
+
+Le résultat de fibonacci(1000),
+soit un tableau des 1000 premières valeurs de la suite de fibonacci,
+est affecté au tableau 'suite'.
+
+
+La boucle for parcourt tout le tableau 'suite'.
+Chaque valeur paire est copiée dans le tableau nombresPairs.
+Chaque valeur impaire est copiée dans le tableau nombresImpairs.
+Chaque valeur multiple de 5 est copiée dans le tableau multiplesDeCinq.
+Chaque valeur multiple de 3 est copiée dans le tableau multiplesDeTrois.
+
+
+Ensuite, pour chacun des 4 tableaux, on affiche:
+son nombre de valeurs, et ses valeurs.
